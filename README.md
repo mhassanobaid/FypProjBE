@@ -76,7 +76,7 @@ The frontend is developed using React.js and can be found here:
 ➡️ TourEase Frontend Repo
 👉 [Figma Design – TourEase](https://www.figma.com/design/LriVHSAOcTuUmjUlS0OBiv/Adventure-Ace?node-id=0-1&p=f)
 
-🎓 Developed By
+# 🎓 Developed By
 Muhammad Hassan Obaid
 
 Muhammad Hamza Riaz
